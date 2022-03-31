@@ -1,2 +1,2 @@
 # SSL_Pereda_Matias
-Este es mi repo para la cursada de Sintaxis y Semática de los Lenguajes
+Este es mi repositorio para la cursada de Sintaxis y Semática de los Lenguajes
